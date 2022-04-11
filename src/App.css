@@ -1,3 +1,61 @@
-.App {
+body{
+  margin: 0;
+  background-image: url(../wallpaper.jpg);
+  background-size: cover;
+}
+
+.header {
+  color: white;
+  font-size: 36px;
+  margin: 0, 0, 0, 0;
   text-align: center;
+}
+
+.Title {
+  color: white;
+  font-size: 36px;
+  padding: 20px;
+  text-align: center;
+}
+
+.planetImage {
+  width: 150px;
+}
+
+.planetName {
+font-size: 24px;
+}
+
+.planetCard {
+  align-items: center;
+  color: white;
+  display: flex;
+  font-size: 18px;
+  justify-content: center;
+  text-align: center;
+}
+
+.missionCard {
+  align-items: center;
+  backdrop-filter: blur( 5px );
+  background: rgba( 255, 255, 255, 0.25 );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  color: white;
+  display: flex;
+  font-size: 18px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: auto;
+  margin-bottom: 30px;
+  max-width: 90%;
+  -webkit-backdrop-filter: blur( 5px );
+}
+
+.missions {
+  display: flex;
+  flex-direction: column;
+  margin:auto;
+  padding: 8px 8px 10px;
 }
