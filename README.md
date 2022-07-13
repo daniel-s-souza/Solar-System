@@ -1,16 +1,24 @@
-# 🚧 README em construção 🚧
+# Sobre o Projeto:
 
-<!-- Olá, Tryber!
+## Primeiro projeto realizado em React.Js, onde as habilidades verificadas foram:
+1. Utilizar componentes JSX;
+1. Utilizar o método ```render()```;
+1. Utilizar ```import```;
+1. Renderizar multiplos componentes apartir de um array;
+1. Utilizar as ```props```;
+1. Utilizar o ```propTypes```;
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+## Entregáveis:
+1. Visualizar todos os planetas do sistema solar renderizados na tela;
+1. Visualizar todas as cartas com informações sobre missões espaciais;
 
-É essencial que você preencha esse documento por conta própria, ok?
-
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+## Como visualizar: 
+1. Clone o repositório
+  * git clone git@github.com:daniel-s-souza/Solar-System-Project.git
+  * Entre na pasta do repositório que você acabou de clonar:
+    * cd Solar-System-Project
+1. Instale as dependências e inicialize o projeto
+ * Instale as dependências:
+   * npm install
+ * Inicialize o projeto:
+   * npm start 
