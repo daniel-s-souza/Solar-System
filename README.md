@@ -14,9 +14,9 @@
 
 ## Como visualizar: 
 1. Clone o repositório
-  * git clone git@github.com:daniel-s-souza/Solar-System-Project.git
+  * git clone git@github.com:daniel-s-souza/Solar-System.git
   * Entre na pasta do repositório que você acabou de clonar:
-    * cd Solar-System-Project
+    * cd Solar-System
 1. Instale as dependências e inicialize o projeto
  * Instale as dependências:
    * npm install
